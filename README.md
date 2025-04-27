@@ -1,4 +1,4 @@
-# PDF_Merger
+# PDF Merger - desktop app
 
 simple drag & drop tool, for merging pdf files.
 
